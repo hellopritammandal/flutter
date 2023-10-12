@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "25285725224",
+    "project_id": "kolkatamart-63d06",
+    "storage_bucket": "kolkatamart-63d06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25285725224:android:aae576ace6eadd3867391d",
+        "android_client_info": {
+          "package_name": "com.whatznot.kolkatamart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJB1ByYvG238LXNZvg6c8RQCOCc3ihkgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
